@@ -1,0 +1,11 @@
+[package]
+name = "kernel"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+schema = { path = "../schema" }
+runtime = { path = "../runtime" }
+scenarios = { path = "../scenarios" }
+embedded-graphics = "0.8.1"
+embedded-graphics-core = "0.4.0"

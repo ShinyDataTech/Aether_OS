@@ -1,0 +1,5 @@
+/target
+kernel_serial.log
+canvas_output.bmp
+canvas_output.ppm
+framebuffer_canvas.png
