@@ -1,8 +1,8 @@
-# Native AI OS
+# Aether OS
 
 > **Non-POSIX AI-Native Microkernel & Ephemeral OS Substrate**
 
-Native AI OS is a zero-dependency Proof of Concept (POC) for a next-generation, AI-native Operating System. Completely departing from legacy POSIX paradigms (no `/bin`, no monolithic filesystems, no persistent user apps), Native AI OS implements an **Ephemeral WebAssembly Isolate Architecture** featuring a **Declarative Generative Canvas** rendered directly to a 2D 32bpp linear framebuffer.
+Aether OS is a zero-dependency Proof of Concept (POC) for a next-generation, AI-native Operating System. Completely departing from legacy POSIX paradigms (no `/bin`, no monolithic filesystems, no persistent user apps), Native AI OS implements an **Ephemeral WebAssembly Isolate Architecture** featuring a **Declarative Generative Canvas** rendered directly to a 2D 32bpp linear framebuffer.
 
 ---
 
