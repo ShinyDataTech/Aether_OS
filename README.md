@@ -58,7 +58,7 @@ Aether OS is a zero-dependency Proof of Concept (POC) for a next-generation, AI-
 ## 📁 Repository Structure
 
 ```
-Native_AI_OS/
+Aether_OS/
 ├── Cargo.toml                  # Workspace definition
 ├── Makefile                    # Make targets (build, run, clean)
 ├── run_qemu.ps1                # PowerShell execution harness & snapshot generator
